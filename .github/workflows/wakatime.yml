@@ -4,8 +4,11 @@ name: WakaTime Readme
 
 on:
   schedule:
-    - cron: '0 20 * * *'
+    - cron: '37 * * * *'
   workflow_dispatch:
+
+env:
+  TZ: Asia/Shanghai
 
 jobs:
   update-readme:
