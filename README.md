@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LongXingLuoLuo&theme=dark&show_icons=true)
+
+<img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LongXingLuoLuo&theme=dark&show_icons=true"/>
 <!--START_SECTION:waka-->
 
 ```txt
